@@ -393,3 +393,195 @@ One day you'll look back and realize how far you've come.
 Welcome to the journey.
 
 Let's begin.
+
+# 🚀 Chapter 0 - Start Here
+
+> Welcome to your Cybersecurity journey!
+
+If you're reading this, you probably want to learn Cybersecurity but don't know where to start.
+
+Don't worry.
+
+This roadmap is designed for complete beginners.
+
+You don't need any prior knowledge.
+
+We'll start from the absolute basics and gradually move to advanced topics.
+
+---
+
+# 🎯 Goal of This Roadmap
+
+By the end of this roadmap, you'll understand:
+
+- 💻 Computer Fundamentals
+- 🐧 Linux
+- 🪟 Windows
+- 🌐 Networking
+- 🌍 Web Fundamentals
+- 🔐 Cybersecurity Basics
+- 🔵 SOC Analyst
+- 🔴 Web Penetration Testing
+- 🐞 Bug Bounty
+- 🛠 Real Projects
+- 💼 Portfolio Building
+- 🎤 Interview Preparation
+
+---
+
+# 👨‍🎓 Who Is This For?
+
+This roadmap is for:
+
+- Complete Beginners
+- College Students
+- Fresh Graduates
+- Career Changers
+- Anyone interested in Cybersecurity
+
+No experience is required.
+
+---
+
+# 📚 How to Follow This Roadmap
+
+Please follow the chapters in order.
+
+Don't skip chapters.
+
+Every chapter builds the foundation for the next one.
+
+Computer Basics
+
+↓
+
+Linux
+
+↓
+
+Windows
+
+↓
+
+Networking
+
+↓
+
+Web Fundamentals
+
+↓
+
+Cybersecurity Fundamentals
+
+↓
+
+SOC Analyst
+
+↓
+
+Web Penetration Testing
+
+↓
+
+Bug Bounty
+
+↓
+
+Projects
+
+↓
+
+Portfolio
+
+↓
+
+Interview Preparation
+
+↓
+
+Job
+
+---
+
+# 📖 How Every Chapter Is Designed
+
+Every chapter contains:
+
+✅ Simple Explanation
+
+✅ Why It Is Important
+
+✅ Real-World Example
+
+✅ Notes
+
+✅ Free Courses
+
+✅ Free Labs
+
+✅ Practice
+
+✅ Mini Project
+
+✅ Interview Questions
+
+✅ Checklist
+
+---
+
+# 📓 Study Method
+
+For every topic:
+
+1. Read
+2. Understand
+3. Make Notes
+4. Practice
+5. Build Something
+6. Revise
+
+Repeat this process for every chapter.
+
+---
+
+# 💻 What You Need
+
+- A Laptop or Desktop
+- Internet Connection
+- Curiosity
+- Patience
+- Consistency
+
+That's all.
+
+---
+# 📓 Study Method
+
+For every topic:
+
+1. Read
+2. Understand
+3. Make Notes
+4. Practice
+5. Build Something
+6. Revise
+
+Repeat this process for every chapter.
+
+---
+
+# ⭐ One Piece of Advice
+
+Don't compare yourself with others.
+
+Everyone starts somewhere.
+
+Focus on learning one topic at a time.
+
+A strong foundation will make every advanced topic easier.
+
+---
+
+## 🚀 Let's Begin!
+
+The next chapter is **Computer Basics**, where you'll learn how a computer works before diving into Linux, Windows, Networking, and Cybersecurity.
